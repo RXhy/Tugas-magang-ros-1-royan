@@ -1,2 +1,0 @@
-manage_supermarket
--DCATKIN_DEVEL_PREFIX=/home/roy/Documents/ROSCORE/tugas-magang-ros-1-royan/devel -DCMAKE_INSTALL_PREFIX=/home/roy/Documents/ROSCORE/tugas-magang-ros-1-royan/install -G Unix Makefiles
